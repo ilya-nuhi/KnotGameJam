@@ -12,5 +12,6 @@ E -> attach a swing point, deattach a swing point
 ![alt text](https://github.com/ilya-nuhi/KnotGameJam/blob/main/ingame_ss.png?raw=true)  
 You can play the game via below links:  
 https://ilya-nuhi.itch.io/escape-the-knot  
+https://sharemygame.com/@ilya_nuhi/knot-s-resolution  
 
 
